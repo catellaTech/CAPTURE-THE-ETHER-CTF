@@ -23,9 +23,9 @@ $ git clone https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF
 $ cd CAPTURE-THE-ETHER-CTF
 
 # Install dependencies
-$ npm install
-
+$ forge install
 ``` 
+- Follow the [instructions](https://book.getfoundry.sh/getting-started/installation.html) to install [Foundry](https://github.com/foundry-rs/foundry).
 
 <!-- <h2>Commands</h2> -->
 
